@@ -1,1 +1,1 @@
-# Rsi-BB-Strategy
+# SL Hunter-Strategy
